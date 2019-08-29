@@ -1,0 +1,74 @@
+
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <link rel="shortcut icon" href="paper_dragon.ico">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <!-- <link rel="shortcut icon" href="paper_dragon.ico"> -->
+    <title>Tongliang Liu's Codes</title>
+    <base href="https://tongliang-liu.github.io/index.html">
+    <!-- <base href="./index.html"> -->
+
+</head>
+
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<h1 style="padding-left: 0.5em">Tongliang Liu</h1><hr>
+<td id="layout-menu">
+    <div class="menu-item"><a href="index.html" class="current">Home</a></div>
+    <div class="menu-item"><a href="groups.html">Groups</a></div>
+    <div class="menu-item"><a href="publications.html">Publications</a></div>
+    <div class="menu-item"><a href="code.html">Codes</a></div>
+    <div class="menu-item"><a href="teaching.html">Teaching</a></div>
+    <div class="menu-item"><a href="service.html">Service</a></div>
+</td>
+<td id="layout-content">
+
+    <h1 style="margin-top: 0em">Codes</h1><br>
+  <!--  <p>[ <a href="#news">News</a>,
+        <a href="#interest">Research Interests</a>,
+        <a href="#job">Job Experience</a>,
+        <a href="#edu">Education</a> ]</p>-->
+
+        <div>
+        <ul>
+            
+            <li><p>
+            <b>Adaptive morphological reconstruction for seeded image segmentation.</b> [<A HREF="https://github.com/SUST-reynole/AMR">Codes</A>]<br>
+            </p></li>
+
+
+            <li><p>
+            <b>Learning with Biased Complementary Labels.</b> [<A HREF="code/Xiyu_eccv2018_backup.tar.gz">Codes</A>]<br>
+            </p></li>
+
+            <li><p>
+            <b>DistillHash: Unsupervised Deep Hashing by Distilling Data Pairs. </b> [<A HREF="">Codes</A>]<br>
+            </p></li>
+
+
+            <li><p>
+            <b>Truncated Cauchy Non-negative Matrix Factorization.</b> [<A HREF="https://github.com/NaiyangGuan/Truncated-Cauchy-Non-Negative-Matrix-Factorization">Codes</A>]<br>
+            </p></li>
+
+
+            <li><p>
+            <b>An Efficient and Provable Approach for Mixture Proportion Estimation Using Linear Independence Assumption.</b> [<A HREF="code/cvpr18_backup.zip">Codes</A>]<br>
+            </p></li>
+
+            <li><p>
+            <b>Domain Adaptation with Conditional Transferable Components.</b> [<A HREF="code/CTC.zip">Codes</A>]<br>
+            </p></li>
+
+
+        </ul>
+    </div>
+
+
+</td>
+</tr>
+</table>
+</body>
+</html>
