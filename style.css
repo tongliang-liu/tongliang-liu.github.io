@@ -145,6 +145,17 @@ p {
 	line-height: 1.3;
 }
 
+pp {
+	margin-top: 0.0em;
+	margin-bottom: 0.8em;
+	padding: 0;
+	line-height: 1.3;
+	text-decoration: underline;
+  -webkit-text-decoration-color: red; /* Safari */  
+  text-decoration-color: red;
+}
+
+
 pre {
 	padding: 0;
 	margin: 0;
