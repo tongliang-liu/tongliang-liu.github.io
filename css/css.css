@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Microsoft Yahei', sans-serif;
+}
+header { max-width: 100%;
+  background-color: #191919;
+ height:88px;
+}
+nav {
+  background-color: #191919;
+}
+nav ul.nav {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  max-width: 1248px;
+  height: 88px;
+  margin: 0 auto;
+  list-style: none;
+}
+
+nav ul.nav li {
+  padding: 0 40px;
+  line-height: 88px;
+}
+
+nav ul.nav li a {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav ul.nav li a:hover {
+  color: #3e66f7;
+  text-decoration: underline;
+}
+
+.logo {
+  font-size: 32px;
+  color:#ffffff;
+}
+main {
+ width:1008px;
+  margin: 0 auto;
+  height: auto;
+  text-align:center;
+ }
+
+.banner img{
+ width:1008px;
+ height:auto;
+ diplay:block; 
+}
+h1{
+margin:25px 0 30px 0;
+text-align:left;
+width:1008px;
+float:left;
+}
+.text{
+text-align:left;
+line-height:28px;
+color:#212529;
+}
+.h1, .text{
+width:1008px;
+text-align:left;
+}
+.text p{
+margin-bottom:20px;
+}
+.text p a{
+color:#577bff;
+text-decoration: none;
+}
+.text p a:hover{
+color:#2540a5;
+text-decoration: underline;
+}
+.table{
+color:#212529;
+line-height:28px;
+text-align: left;
+vertical-align: top；
+border-top:1px solid #dee2e6;
+width:1008px;
+}
+.table tr{
+background:#f2f2f2;
+padding:0;
+margin:0;
+text-align: left;
+vertical-align: top；
+}
+.table tr td.left-text{
+width:30%;
+padding:10px 15px;
+}
+.table tr td.right-text{
+width:70%;
+padding:10px 15px; 
+text-align: left;
+vertical-align: top；
+}
+h2{
+margin:45px 0 30px 0;
+text-align:left;
+width:1008px;
+}
+
+.bb-w{
+background:#ffffff;
+}
+.mar-top55{
+margin-top:55px;
+}
+.intro ul li{
+list-style:none;
+margin:0;
+padding:0;
+width:25%;
+float:left;
+text-align:center;
+font-weight: normal;
+}
+.intro ul li img{
+ width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+margin-top:30px;
+}
+.intro ul li a{
+color:#212529;
+text-decoration:none;
+}
+.intro ul li a:hover{
+color:#3854ff;
+text-decoration: underline;
+}
+.logo-list{
+width:1008px;
+height:auto;
+margin-bottom:120px;
+float:left;
+}
+.logo-list span{
+display: inline-block;
+float:left;
+margin-right:25px;
+}
+.logo-list img.tml-i{
+width:206px;
+height:114px;
+border:1px solid #e9e9e9;
+border-radius: 20px;
+padding:25px;
+}
+.logo-list img.gov-i{
+width:268px;
+height:114px;
+border:1px solid #e9e9e9;
+border-radius: 20px;
+padding:25px;
+}
